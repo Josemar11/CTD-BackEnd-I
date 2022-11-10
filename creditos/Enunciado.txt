@@ -1,0 +1,5 @@
+
+Imaginemos que estamos desenvolvendo um sistema para a área de crédito de um banco e queremos que quando um cliente solicita um crédito, um pedido seja enviado às diferentes autoridades encarregadas de autorizá-lo. O banco nos disse que:
+- Se o valor não ultrapassar 60.000, o executivo de contas pode aprová-lo.
+- Se o valor estiver entre 60.000 e 200.000, o gerente é quem o aprova.
+- Se o valor for superior a 200.000, é aprovado pelo diretor.

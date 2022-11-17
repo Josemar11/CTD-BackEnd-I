@@ -7,3 +7,4 @@ Acervo de exercícios CTD Back End I
 - Proxy pattern
 - Flyweight pattern
 - facade pattern
+- Logging (Trace e Debug)

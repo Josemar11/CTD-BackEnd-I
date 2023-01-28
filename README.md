@@ -1,5 +1,5 @@
 # JAVA-Class
-Acervo de exercícios CTD Back End I
+Acervo de exercícios desenvolvidos em Java -  CTD Back End I
 
 - Design Patterns:
 - Template Method pattern
